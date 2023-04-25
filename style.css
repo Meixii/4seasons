@@ -2,7 +2,31 @@
 
 
 /* Navigation */
+.navbar {
+    background-color: #e08b30;
+    box-shadow: 25px 0 0 #cd781e;
+    top: 0%;
+    height: 10%;
+    width: 100%;
+    position: flex;
 
+}
+
+#icon_spr {
+
+}
+
+#icon_sum {
+
+}
+
+#icon_aut {
+
+}
+
+#icon_win {
+
+}
 
 /* Spring */
 
@@ -14,3 +38,6 @@
 
 
 /* Winter */
+
+
+
